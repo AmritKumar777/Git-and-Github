@@ -4,6 +4,7 @@
 
 ## 📜 A Quick History: Why Do We Use This?
 Before diving into my experience, it helps to understand why these tools are such a big deal:
+* **The UNIX Roots (1969):** Created by **Ken Thompson** and Dennis Ritchie at Bell Labs. Ken Thompson pioneered the "UNIX Philosophy": write programs that do one thing well and talk to each other using text streams. 
 * **The Birth of Git (2005):** Created by **Linus Torvalds** (the same genius behind Linux). He needed a fast, decentralized way for thousands of developers to collaborate on the Linux kernel without breaking each other's code. 
 * **The Rise of GitHub (2008):** Founded by Tom Preston-Werner, Chris Wanstrath, P. J. Hyett, and Scott Chacon. They built an online home for Git repositories, turning a command-line tool into a massive social network for developers to share, fork, and collaborate on open-source code globally.
 
