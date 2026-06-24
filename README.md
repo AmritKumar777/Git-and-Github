@@ -1,5 +1,3 @@
-# 🚀 My Journey into Version Control: Git & GitHub 
-
 ### 📅 Date: Sunday, 21 June 2026
 
 ## 📜 A Quick History: Why Do We Use This?
@@ -55,16 +53,22 @@ After mastering the basics of Git and GitHub, it is time to put that knowledge t
 
 ---
 ### 🤝 Your Turn: Make Your First Contribution!
-If you are using this repository to learn Git and GitHub, I highly recommend taking the exact same hands-on step I did. Do not just read about Git—go make your mark!You can practice your very first open-source contribution by following the simple, beginner-friendly guide here: First Contributions Repository. It is the perfect, risk-free environment to build your confidence and successfully merge your first pull request.
+If you are using this repository to learn Git and GitHub, I highly recommend taking the exact same hands-on step I did. Do not just read about Git—go make your mark!You can practice your very first open-source contribution by following the simple, beginner-friendly guide here: https://firstcontributions.github.io.  It is the perfect, risk-free environment to build your confidence and successfully merge your first pull request.
 
 ---
 ### 🌟 Final Result of my First Contribution
-<img width="428" height="214" alt="image" src="https://github.com/user-attachments/assets/738db358-143d-498b-a8c5-0c1e7404e863" />
+<img width="1544" height="828" alt="image" src="https://github.com/user-attachments/assets/d17d063b-894b-4f9b-903e-e003dc99f814" />
+
+
+**As u can see the name of mine  in the contribution list on the no. 6. This Contribution was made on 23rd June'26. I Really enjoyed my first ever Hands on Experience on this repo towards OpenSource Contribution.**
+
+<img width="1897" height="721" alt="image" src="https://github.com/user-attachments/assets/5548f388-58ac-4e3e-bf68-9b9e21f3fb57" />
+
 
 
 
 ---
-I am done with this setup for now, but the journey with Git continues... **Cheers!** 🥂
+I am done with this for now, but the journey with Git continues... **Cheers!** 🥂
 
 ***
 
