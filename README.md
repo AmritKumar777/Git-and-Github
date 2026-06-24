@@ -50,6 +50,20 @@ When we play Minecraft and mess around with Command Blocks to tweak the world to
 <img width="1893" height="914" alt="image" src="https://github.com/user-attachments/assets/488eb350-73e4-4627-a3b7-1773c769d9c7" />
 
 ---
+## 🚀 Putting Knowledge into Practice: My First Contribution
+After mastering the basics of Git and GitHub, it is time to put that knowledge to the test. I successfully completed my first open-source contribution using the first-contributions repository. This hands-on experience bridged the gap between theory and practice by walking me through cloning, branching, committing, and creating a pull request in a real-world scenario.
+
+---
+### 🤝 Your Turn: Make Your First Contribution!
+If you are using this repository to learn Git and GitHub, I highly recommend taking the exact same hands-on step I did. Do not just read about Git—go make your mark!You can practice your very first open-source contribution by following the simple, beginner-friendly guide here: First Contributions Repository. It is the perfect, risk-free environment to build your confidence and successfully merge your first pull request.
+
+---
+### 🌟 Final Result of my First Contribution
+<img width="428" height="214" alt="image" src="https://github.com/user-attachments/assets/738db358-143d-498b-a8c5-0c1e7404e863" />
+
+
+
+---
 I am done with this setup for now, but the journey with Git continues... **Cheers!** 🥂
 
 ***
